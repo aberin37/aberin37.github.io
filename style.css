@@ -1,0 +1,60 @@
+header {
+
+  background: url(Screen%20Shot%202018-02-21%20at%2012.15.48%20PM.png);
+  background-repeat: repeat;
+  text-align: center;
+}
+ body {
+      background-color: lightpink;
+      background-repeat: no-repeat;
+  
+  text-align: center;
+  display: inline;
+  text-align: center;
+  margin: 100px;
+  color: #00BFFF;
+ }
+
+
+header h1 {
+
+   <img src="Screen%20Shot%202018-02-15%20at%204.31.37%20PM.png">
+
+  color: pink;
+  }
+
+
+header img {
+  height: 120px;
+  width: 120px;
+  border: 0px solid white;
+  border-radius: 25%;
+  margin-top: 25px;
+}
+
+ul {
+  background-color: #00BFFF;
+  text-align: center;
+  padding: 20px;
+}
+
+li {
+  display: inline;
+  text-align: center;
+  margin: 70px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Berkshire', cursive;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  font-family: 'Berkshire', Cursive;
+}
+
+div {
+  margin: 100px;
+}

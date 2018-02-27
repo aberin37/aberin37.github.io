@@ -1,0 +1,35 @@
+
+body {
+
+  background: lightpink;
+  text-align: center;
+  color:white;
+  font-family: helvetica;
+padding-bottom: 10px;
+}
+
+h1 {
+  font-size: 50px;
+padding: 10px;
+margin: 10px;
+  font-family: 'Berkshire', cursive;
+}
+
+p { 
+ padding: 10px;
+ margin: 10px;
+  text-align: center; 
+}
+
+
+  p> { 
+    padding: 10px;
+    text-align: center;
+    font-family: 'Berkshire Swash', cursive;
+  }
+
+
+div {
+
+  margin: 100px;
+}
