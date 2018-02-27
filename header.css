@@ -1,0 +1,43 @@
+header {
+  background: url("Screen%20Shot%202018-02-13%20at%2010.16.39%20PM.png");
+  text-align: center;
+  img src= "http://txt-dynamic.cdn.1001fonts.net/txt/dHRmLjYwLjAwMDAwMC5RVzV1WVdKbGJDQkNaWEpwYmcsLC4w/calligraffitti.regular.png"
+}
+
+
+header h1 {
+  color: white;
+}
+
+header img {
+  height: 200px;
+  width: 200px;
+  border: 5px solid white;
+  border-radius: 50%;
+  margin-top: 50px;
+}
+
+ul {
+  background-color: #00B2D3;
+  padding: 20px;
+}
+
+li {
+  display: inline;
+  margin: 50px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  font-family: 'Montserrat', sans-serif;
+}
+
+div {
+  margin: 100px;
+}
