@@ -1,60 +1,51 @@
-header {
-
-  background: url(Screen%20Shot%202018-02-21%20at%2012.15.48%20PM.png);
-  background-repeat: repeat;
-  text-align: center;
-}
- body {
-      background-color: lightpink;
-      background-repeat: no-repeat;
-  
+body {
+  background-color: white;
+  background-repeat: no-repeat;
   text-align: center;
   display: inline;
   text-align: center;
   margin: 100px;
-  color: #00BFFF;
+  
+  
  }
 
+.it-me {
 
-header h1 {
-
-   <img src="Screen%20Shot%202018-02-15%20at%204.31.37%20PM.png">
-
-  color: pink;
-  }
-
-
-header img {
-  height: 120px;
-  width: 120px;
-  border: 0px solid white;
-  border-radius: 25%;
-  margin-top: 25px;
+  width: 50px;
+  height: 50px;
+  top: 0px;
+  left: 0px;
+  position: absolute;
 }
 
-ul {
-  background-color: #00BFFF;
-  text-align: center;
-  padding: 20px;
+.it-me-pic {
+  width: 25px;
+  height: 25px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  z-index: -1;
 }
 
-li {
-  display: inline;
-  text-align: center;
-  margin: 70px;
+
+.name {
+  top: 0px;
+  right: 0px;
+  position: absolute;
 }
 
-h1 {
+ .home, .contact, .portfolio {
+  font-family: 'Red Snapper Regular', monospace;
   font-size: 50px;
-  font-family: 'Berkshire', cursive;
 }
 
-p {
+
+
+.about-me {
+  margin-left: 37%;
+  width: 300px;
+  text-align: left;
   font-size: 18px;
-  line-height: 1.6;
-  font-family: 'Berkshire', Cursive;
-}
-
-div {
-  margin: 100px;
+  line-height: 1.6em;
+   font-family: 'Source Code Pro', monospace; 
 }
